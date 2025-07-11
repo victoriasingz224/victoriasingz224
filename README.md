@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Victoria Singh and I am studying Computer Engineering and Computer Science at USC. I am committed to design, sustainability, humaintarianism as well as service and I aim to advance these initiatives through appyling the concepts I learn in school to siginificant projects. 
+
+List of completed projects:
+
+List of projects currently working on:
+
+
 <!--
 **victoriasingz224/victoriasingz224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
