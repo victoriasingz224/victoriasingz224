@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-My name is Victoria Singh and I am studying Computer Engineering and Computer Science at USC. I am committed to design, sustainability, humaintarianism as well as service and I aim to advance these initiatives through appyling the concepts I learn in school to siginificant projects. 
+My name is Victoria Singh and I am studying Computer Engineering and Computer Science at USC. I am committed to design, sustainability, humanitarianism as well as service and I aim to advance these initiatives through appyling the concepts I learn in school to siginificant projects. 
 
 List of completed projects:
 
+- Speedometer project using Arduino
+- Current Senosr project using the ina219 sensor
+  
+
 List of projects currently working on:
+
 
 
 <!--
